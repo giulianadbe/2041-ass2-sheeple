@@ -1,0 +1,16 @@
+Date        Start       Stop        Activity                Comments
+29/07/20    2:00pm      3:00pm      Read spec               Understand what the task requires, read clarification and assumptions
+29/07/20    3:00pm      4:00pm      Coding                  Implement regex lines for subset 0, test against basic examples and autotests
+03/08/20    3:00pm      4:00pm      Research                Read man dash, perl docs and relevant online sources to deepend understanding of perl and shell semantics
+03/08/20    4:00pm      5:00pm      Coding + Debugging      Implementation of subset 0
+03/08/20    5:00pm      7:00pm      Coding + Debugging      Implementation and debugging of subset 1
+03/08/20    7:00pm      10:00pm     Coding + Debugging      Implementation and debbugging of subset 2
+03/08/20    10:00pm     12:00pm     Testing                 Testing edge cases and adjusting code depending on these tests, for subset 0, 1, 2
+04/08/20    1:00pm      3:00pm      Coding + Debugging      Working on subset 3 - file test operators and quotations
+07/08/20    5:00pm      6:30pm      Testing                 Test code against examples from 0-3, fix errors
+07/08/20    6:30pm      7:00pm      Utility Script          Write a utility script that automates output checking for examples provided
+07/08/20    9:00pm      10:30pm     Testing                 Testing odd cases of echo to expose bugs in program. Wrote test00.sh and test.sh to facilitate this
+08/08/20    7:00pm      12:00am     Testing                 Testing odd cases of for and while to expose bugs in program. Wrote test01.sh and test02.sh to facilitate this
+09/08/20    2:00pm      6:00pm      Testing                 Testing odd cases for subset 3 and if statements, finish test scripts
+09/08/20    7:00pm      9:00pm      Testing + demo script   Finish testing and write demo shell scripts + test with other shell scripts
+09/08/20    9:00pm      10:00pm     Style + submit          Fix style of assignment and submit

@@ -1,6 +1,5 @@
 ### COMP(2041|9044) 20T2: ass2: sheeple ###
 
-Do not push changes to this repository directly.
-Do not change the repository via the web interface.
-
-Submit your work using usage: give class assignment [files...], and it will be automatically pushed to this repository.
+Shell --> Perl compiler
+Takes shell scripts (or stdin) as input and outputs Perl
+Implemented for a subset of Shell
